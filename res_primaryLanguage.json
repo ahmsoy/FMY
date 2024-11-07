@@ -1,0 +1,282 @@
+{
+  "basic_info": {
+    "name": "Faruk Mert Yüksel",
+    "description_header": "Hi",
+    "description": "👋 My name is Faruk Mert Yüksel, born on June 5, 1998, in Istanbul, Turkey. After completing my education in Exercise and Sports Sciences in Istanbul, I moved to the United States. My journey in sports began in childhood with kickboxing, where I developed a passionate career. Over the years, I achieved success in various national and international championships and had the honor of representing the Turkish National Kickboxing Team.\n\nIn 2016, I decided to pursue a career in coaching (Personal Training) and have since focused on continuous improvement in this field. After relocating to Houston, Texas, I opened a gym, where I continue my kickboxing training while also coaching. My approach to coaching goes beyond teaching technical skills; I strive to instill important values such as mental resilience and discipline in my students. I believe that sports should be a way of life, and I aim to inspire and support each athlete in reaching their personal goals.\n\nIn addition to my coaching career, I am also involved in e-commerce, exploring new opportunities in the digital world and enhancing my knowledge in this area. The possibilities offered by online commerce feed my entrepreneurial spirit and allow me to apply my experiences in the sports industry to the business world. I actively participate in international camps to share experiences with athletes from diverse cultures and to continue developing my skills.",
+    "section_name": {
+      "about": "About Me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Sporting Achievements",
+      "countries": "Countries I've Visited",
+      "championships_courses": "Championships and Courses",
+      "education": "Education",
+      "certifications_courses": "Certifications and Courses",
+      "vision_mission": "Vision and Mission"
+    }
+  },
+  "projects": [
+    {
+      "title": "Animal Shelter",
+      "startDate": "2020",
+      "description": "An application managing the adoption process, enabling shelters to record all animal adoptions.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        { "class": "devicon-angularjs-plain", "name": "Angular" },
+        { "class": "devicon-typescript-plain", "name": "TypeScript" },
+        { "class": "devicon-csharp-plain", "name": "C#" }
+      ]
+    },
+    {
+      "title": "Photography",
+      "startDate": "2018",
+      "description": "Tested a photography application that optimizes images using algorithms from graphic editors.",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        { "class": "devicon-react-original", "name": "React" },
+        { "class": "devicon-javascript-plain", "name": "JavaScript" }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "Front-end implementation for an app showing 3D models of buildings, my first Angular project.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        { "class": "devicon-angularjs-plain", "name": "Angular" },
+        { "class": "devicon-typescript-plain", "name": "TypeScript" },
+        { "class": "devicon-csharp-plain", "name": "C#" }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "years": "2024",
+      "title": "WAKO USA Nationals",
+      "location": "Florida",
+      "result": "1st Place"
+    },
+    {
+      "years": "2023",
+      "title": "Orlando Open",
+      "result": "1st Place"
+    },
+    {
+      "years": "2023",
+      "title": "USIBA Boxing Tournament",
+      "location": "Virginia",
+      "result": "2nd Place"
+    },
+    {
+      "years": "2022",
+      "title": "University Kickboxing Championship",
+      "location": "Erzurum",
+      "result": "1st Place"
+    },
+    {
+      "years": "2021",
+      "title": "International Turkish Open European Cup",
+      "location": "Antalya",
+      "result": "1st Place (74 kg)"
+    },
+    {
+      "years": "2021",
+      "title": "Turkish Senior and Youth Kickboxing Championship",
+      "location": "Şırnak",
+      "result": "1st Place (74 kg)"
+    },
+    {
+      "years": "2021",
+      "title": "WAKO World Kickboxing Championship",
+      "location": "Italy",
+      "result": "5th Place (74 kg)"
+    },
+    {
+      "years": "2020",
+      "title": "Turkish Open Kickboxing Tournament",
+      "location": "Antalya",
+      "result": "1st Place (69 kg)"
+    },
+    {
+      "years": "2019",
+      "title": "Athens Challenge Kickboxing World Cup",
+      "location": "Greece",
+      "result": "3rd Place (69 kg Kicklight), 3rd Place (Point Fighting)"
+    },
+    {
+      "years": "2019",
+      "title": "Turkish University Kickboxing Championship",
+      "location": "Antalya",
+      "result": "3rd Place"
+    },
+    {
+      "years": "2019",
+      "title": "Yokoso Dutch Open",
+      "location": "Netherlands",
+      "result": "Quarter-Finals"
+    },
+    {
+      "years": "2019",
+      "title": "International Turkish Open Kickboxing European Cup",
+      "location": "Antalya",
+      "result": "3rd Place (69 kg), 3rd Place (Team Competitions)"
+    },
+    {
+      "years": "2018",
+      "title": "Turkish University Kickboxing Championship",
+      "location": "Antalya",
+      "result": "1st Place (69 kg)"
+    },
+    {
+      "years": "2017",
+      "title": "Turkish Kickboxing Championship",
+      "location": "Bolu",
+      "result": "2nd Place (69 kg)"
+    },
+    {
+      "years": "2017",
+      "title": "Turkish University Kickboxing Championship",
+      "location": "Antalya",
+      "result": "2nd Place (69 kg)"
+    },
+    {
+      "years": "2017",
+      "title": "23rd Hungarian Kickboxing World Cup",
+      "location": "Hungary",
+      "result": "1st Place (69 kg)"
+    },
+    {
+      "years": "2016",
+      "title": "Turkish Kickboxing Championship",
+      "location": "Sakarya",
+      "result": "1st Place (63 kg)"
+    },
+    {
+      "years": "2016",
+      "title": "International Turkish Open Kickboxing Tournament",
+      "location": "Antalya",
+      "result": "1st Place (63 kg), 1st Place (Team Competitions)"
+    },
+    {
+      "years": "2015",
+      "title": "Turkish Kickboxing Championship",
+      "location": "Isparta",
+      "result": "2nd Place (63 kg)"
+    },
+    {
+      "years": "2014",
+      "title": "Turkish Kickboxing Championship",
+      "location": "Ordu",
+      "result": "3rd Place (57 kg)"
+    },
+    {
+      "years": "2010",
+      "title": "Started Licensed Sports Career",
+      "result": ""
+    },
+    {
+      "years": "2009",
+      "title": "Began Kickboxing",
+      "result": ""
+    }
+  ],
+  "countries": [
+    "Turkey", "Greece", "Bulgaria", "Hungary", "Slovakia", "Austria",
+    "Czech Republic", "Germany", "Netherlands", "Ireland", "Belgium",
+    "France", "Spain", "Italy", "Morocco", "United States"
+  ],
+  "championships_courses": [
+    {
+      "title": "Winter Fight Camp",
+      "date": "February 2022",
+      "location": "Antalya",
+      "description": "Organized an international camp bringing together athletes and coaches from various countries."
+    }
+  ],
+  "education": [
+    {
+      "institution": "International Gokkusagi School"
+    },
+    {
+      "institution": "Istanbul Gelisim University",
+      "faculty": "Faculty of Sports Sciences",
+      "department": "Department of Exercise and Sports Sciences"
+    }
+  ],
+  "certifications_courses": [
+    {
+      "title": "USA Kickboxing - Bronze Certification",
+      "year": 2024
+    },
+    {
+      "title": "USA Boxing Coach",
+      "year": 2024
+    },
+    {
+      "title": "Bloodborne Pathogens Training",
+      "organization": "American Red Cross",
+      "year": 2022
+    },
+    {
+      "title": "Lifeguarding with CPR/AED for Professional Rescuers, First Aid and Waterpark Skills",
+      "organization": "American Red Cross",
+      "year": 2022
+    },
+    {
+      "title": "Athletic Performance Academy (APA)",
+      "year": 2022
+    },
+    {
+      "title": "Eccentric Training",
+      "organization": "Technogym Türkiye",
+      "year": 2021
+    },
+    {
+      "title": "International-Level Athletes Education Program",
+      "organization": "World Anti-Doping Agency",
+      "year": 2021,
+      "language": "English"
+    },
+    {
+      "title": "Muscle Contractions & Plyometric Training Programme",
+      "organization": "Seam Academy",
+      "year": 2021
+    },
+    {
+      "title": "Current Training Approaches in Elite Sports",
+      "organization": "Haliç University",
+      "year": 2018
+    },
+    {
+      "title": "Genetic Trainer",
+      "organization": "TED Sports Club",
+      "year": 2017
+    },
+    {
+      "title": "Leadership and Business Management",
+      "organization": "Istanbul Business Institute",
+      "year": 2016
+    },
+    {
+      "title": "Business Administration",
+      "organization": "Istanbul Business Institute",
+      "year": 2016
+    }
+  ],
+  "vision_mission": {
+    "vision": "I have always been an individual who sets clear goals and pursues them with determination. My travels abroad for education and language development have continuously enriched my experiences.",
+    "mission": "I am a curious and adventurous person; every new piece of knowledge helps me grow further. I enjoy effective communication with others and answer questions sincerely. My research in sports science and my desire for continuous learning motivate me to excel in my field. Additionally, I am focused on personal and professional growth through online business opportunities. Inspiring those around me and sharing knowledge is a key part of my mission."
+  }
+}

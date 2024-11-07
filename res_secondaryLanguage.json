@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "name": "Faruk Mert Yüksel",
+    "description_header": "Merhaba",
+    "description": "👋 Ben Faruk Mert Yüksel, 5 Haziran 1998'de İstanbul, Türkiye'de doğdum. İstanbul'da Egzersiz ve Spor Bilimleri eğitimi aldıktan sonra Amerika Birleşik Devletleri'ne taşındım. Spor yolculuğum çocuklukta kickboks ile başladı ve bu alanda tutkulu bir kariyer geliştirdim. Yıllar içinde çeşitli ulusal ve uluslararası şampiyonalarda başarılar elde ettim ve Türk Kickboks Milli Takımı'nı temsil etme onuruna sahip oldum.\n\n2016 yılında, antrenörlük (Kişisel Antrenörlük) kariyerine adım atmaya karar verdim ve o zamandan beri bu alanda sürekli gelişime odaklandım. Houston, Teksas'a taşındıktan sonra bir spor salonu açtım, burada kickboks antrenmanlarıma devam ederken aynı zamanda antrenörlük yapıyorum. Antrenörlük yaklaşımım, teknik becerilerin ötesinde, öğrencilerime zihinsel dayanıklılık ve disiplin gibi önemli değerleri aşılamayı amaçlıyor. Sporun bir yaşam tarzı olması gerektiğine inanıyorum ve her bir sporcunun kişisel hedeflerine ulaşmasında ilham kaynağı olmayı hedefliyorum.\n\nAntrenörlük kariyerimin yanı sıra, dijital dünyada yeni fırsatları keşfederek ve bu alandaki bilgimi geliştirerek e-ticaretle de ilgileniyorum. Çevrimiçi ticaretin sunduğu olanaklar, girişimcilik ruhumu besliyor ve spor endüstrisindeki deneyimlerimi iş dünyasına aktarmama olanak tanıyor. Farklı kültürlerden sporcularla deneyim paylaşmak ve becerilerimi geliştirmeye devam etmek için uluslararası kamplara aktif olarak katılıyorum.",
+    "section_name": {
+      "about": "Hakkımda",
+      "projects": "Projeler",
+      "skills": "Yetenekler",
+      "experience": "Spor Başarıları",
+      "countries": "Ziyaret Ettiğim Ülkeler",
+      "championships_courses": "Şampiyonalar ve Kurslar",
+      "education": "Eğitim",
+      "certifications_courses": "Sertifikalar ve Kurslar",
+      "vision_mission": "Vizyon ve Misyon"
+    }
+  },
+  "projects": [
+    {
+      "title": "Hayvan Barınağı",
+      "startDate": "2020",
+      "description": "Barınakların tüm hayvan sahiplenme işlemlerini kaydetmesine olanak tanıyan bir uygulama.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        { "class": "devicon-angularjs-plain", "name": "Angular" },
+        { "class": "devicon-typescript-plain", "name": "TypeScript" },
+        { "class": "devicon-csharp-plain", "name": "C#" }
+      ]
+    },
+    {
+      "title": "Fotoğrafçılık",
+      "startDate": "2018",
+      "description": "Fotoğrafları grafik editörlerde kullanılan algoritmalarla optimize eden bir fotoğrafçılık uygulamasını test ettim.",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        { "class": "devicon-react-original", "name": "React" },
+        { "class": "devicon-javascript-plain", "name": "JavaScript" }
+      ]
+    },
+    {
+      "title": "3D Nesne Görüntüleyici",
+      "startDate": "2015",
+      "description": "Binaların 3D modellerini gösteren bir uygulamanın ön yüz implementasyonu.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        { "class": "devicon-angularjs-plain", "name": "Angular" },
+        { "class": "devicon-typescript-plain", "name": "TypeScript" },
+        { "class": "devicon-csharp-plain", "name": "C#" }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "years": "2024",
+      "title": "WAKO USA Ulusal Şampiyonası",
+      "location": "Florida",
+      "result": "1. Yer"
+    },
+    {
+      "years": "2023",
+      "title": "Orlando Açık",
+      "result": "1. Yer"
+    },
+    {
+      "years": "2023",
+      "title": "USIBA Boks Turnuvası",
+      "location": "Virginia",
+      "result": "2. Yer"
+    },
+    {
+      "years": "2022",
+      "title": "Üniversite Kickboks Şampiyonası",
+      "location": "Erzurum",
+      "result": "1. Yer"
+    },
+    {
+      "years": "2021",
+      "title": "Uluslararası Türkiye Açık Avrupa Kupası",
+      "location": "Antalya",
+      "result": "1. Yer (74 kg)"
+    },
+    {
+      "years": "2021",
+      "title": "Türkiye Büyükler ve Gençler Kickboks Şampiyonası",
+      "location": "Şırnak",
+      "result": "1. Yer (74 kg)"
+    },
+    {
+      "years": "2021",
+      "title": "WAKO Dünya Kickboks Şampiyonası",
+      "location": "İtalya",
+      "result": "5. Yer (74 kg)"
+    },
+    {
+      "years": "2020",
+      "title": "Türkiye Açık Kickboks Turnuvası",
+      "location": "Antalya",
+      "result": "1. Yer (69 kg)"
+    }
+  ],
+  "countries": [
+    "Türkiye", "Yunanistan", "Bulgaristan", "Macaristan", "Slovakya", "Avusturya",
+    "Çek Cumhuriyeti", "Almanya", "Hollanda", "İrlanda", "Belçika",
+    "Fransa", "İspanya", "İtalya", "Fas", "Amerika Birleşik Devletleri"
+  ],
+  "championships_courses": [
+    {
+      "title": "Kış Dövüş Kampı",
+      "date": "Şubat 2022",
+      "location": "Antalya",
+      "description": "Farklı ülkelerden gelen sporcular ve antrenörlerle bir araya gelinen uluslararası kamp düzenlendi."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Uluslararası Gökkuşağı Okulu"
+    },
+    {
+      "institution": "İstanbul Gelişim Üniversitesi",
+      "faculty": "Spor Bilimleri Fakültesi",
+      "department": "Egzersiz ve Spor Bilimleri Bölümü"
+    }
+  ],
+  "certifications_courses": [
+    {
+      "title": "ABD Kickboks - Bronz Sertifikası",
+      "year": 2024
+    },
+    {
+      "title": "ABD Boks Antrenörü",
+      "year": 2024
+    },
+    {
+      "title": "Kan Yoluyla Bulaşan Patojenler Eğitimi",
+      "organization": "Amerikan Kızılhaçı",
+      "year": 2022
+    }
+  ],
+  "vision_mission": {
+    "vision": "Her zaman net hedefler belirleyen ve onları kararlılıkla takip eden bir birey oldum. Eğitim ve dil gelişimi için yurtdışına yaptığım seyahatler, deneyimlerimi sürekli zenginleştiriyor.",
+    "mission": "Meraklı ve maceracı bir insanım; her yeni bilgi beni daha da ileriye taşıyor. Başkalarıyla etkili iletişim kurmaktan keyif alıyorum ve soruları içtenlikle yanıtlıyorum. Spor bilimleri alanındaki araştırmalarım ve sürekli öğrenme arzusu, bu alanda başarılı olmamı motive ediyor. Ayrıca, çevrimiçi iş fırsatları ile kişisel ve profesyonel büyümeye odaklanıyorum. Çevremdekilere ilham vermek ve bilgi paylaşmak misyonumun önemli bir parçasıdır."
+  }
+}

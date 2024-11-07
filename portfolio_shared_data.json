@@ -1,0 +1,64 @@
+{
+  "basic_info": {
+    "name": "Faruk Mert Yuksel",
+    "titles": ["Entrepreneur", "Business Owner", "Kickboxing Champion", "National Athlete"],
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/faruk-mert-y-850589109/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/farukmertyuksel/",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg",
+    "section_name": {
+      "about": "About Me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Sporting Achievements"
+    }
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Coaching",
+        "class": "fas fa-user-tie",
+        "level": "95"
+      },
+      {
+        "name": "Kickboxing",
+        "class": "fas fa-fist-raised",
+        "level": "98"
+      },
+      {
+        "name": "Personal Training",
+        "class": "fas fa-dumbbell",
+        "level": "90"
+      },
+      {
+        "name": "E-commerce",
+        "class": "fas fa-shopping-cart",
+        "level": "85"
+      },
+      {
+        "name": "Public Speaking",
+        "class": "fas fa-microphone-alt",
+        "level": "80"
+      },
+      {
+        "name": "Business Management",
+        "class": "fas fa-briefcase",
+        "level": "85"
+      },
+      {
+        "name": "Social Media Marketing",
+        "class": "fas fa-hashtag",
+        "level": "75"
+      }
+    ]
+  }
+}
