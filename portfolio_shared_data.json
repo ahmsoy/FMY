@@ -17,7 +17,7 @@
     "image": "myProfile.jpg",
     "section_name": {
       "about": "About Me",
-      "projects": "Projects",
+      "projects": "News Articles",
       "skills": "Skills",
       "experience": "Sporting Achievements"
     }
@@ -25,14 +25,9 @@
   "skills": {
     "icons": [
       {
-        "name": "Coaching",
+        "name": "Sports Agent",
         "class": "fas fa-user-tie",
         "level": "95"
-      },
-      {
-        "name": "Kickboxing",
-        "class": "fas fa-fist-raised",
-        "level": "98"
       },
       {
         "name": "Personal Training",
@@ -58,6 +53,11 @@
         "name": "Social Media Marketing",
         "class": "fas fa-hashtag",
         "level": "75"
+      },
+      {
+        "name": "Kickboxing",
+        "class": "fas fa-fist-raised",
+        "level": "98"
       }
     ]
   }
